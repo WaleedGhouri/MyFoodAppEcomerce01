@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/add_dish"
+        android:title="Add Dish"
+        android:icon="@drawable/adddish">
+    </item>
+
+
+    <item
+        android:id="@+id/view_dish"
+        android:title="View Dish"
+        android:icon="@drawable/viewdish">
+
+    </item>
+
+
+    <item
+        android:id="@+id/pending_order"
+        android:title="Pending Orders"
+        android:icon="@drawable/pendingorder">
+
+    </item>
+
+
+    <item
+        android:id="@+id/complete_orders"
+        android:title="Complete Orders"
+        android:icon="@drawable/completeorder">
+
+    </item>
+
+    <item
+        android:id="@+id/sign_out"
+        android:title="Sign Out"
+        android:icon="@drawable/logoutt"
+        >
+
+    </item>
+</menu>
